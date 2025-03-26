@@ -1,2 +1,8 @@
 Hi 
 Lets test the revert commit
+
+Now lets test the reset command
+
+Now lets test the reset --mixed command
+
+Now lets test the reset --hard command
