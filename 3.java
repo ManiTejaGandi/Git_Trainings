@@ -6,4 +6,5 @@ Lets learn now merge stragtegy
 
 Add fx1 code here
 
+Lets see squash and merge 
 Add fx2 code here
