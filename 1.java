@@ -6,3 +6,5 @@
  Lets learn merge strategy
 
  lets learn cherry pick
+
+ Lets see the squash and merge
