@@ -8,3 +8,5 @@
  lets learn cherry pick
 
  Lets see the squash and merge
+Lets see the stash
+
