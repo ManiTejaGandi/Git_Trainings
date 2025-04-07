@@ -1,0 +1,8 @@
+name : My first Github Action/Workflows
+on : Workflow_dispatch
+jobs:
+  job1:
+    runs_on : ubuntu_latest
+    steps:
+      -name : task1
+      run : echo "how are you"
